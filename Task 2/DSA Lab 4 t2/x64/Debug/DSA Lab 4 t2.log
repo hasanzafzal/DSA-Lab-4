@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Queue.cpp
+C:\Users\hzafz\source\repos\DSA Lab 4 t2\DSA Lab 4 t2\Queue.cpp(23,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hzafz\source\repos\DSA Lab 4 t2\DSA Lab 4 t2\Queue.cpp(57,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  DSA Lab 4 t2.vcxproj -> C:\Users\hzafz\source\repos\DSA Lab 4 t2\x64\Debug\DSA Lab 4 t2.exe
